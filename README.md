@@ -1,5 +1,5 @@
 # bgtools
-A non distructive tool.
+A non distructive tool, used for helping with (Insert Console Name Here) & keeping it alive!
 
 1. Download & Install Xampp to C:/xampp
 
@@ -19,4 +19,4 @@ A non distructive tool.
 
 9. Write down IPv4 address. Should be something like 192.168.1.2 (don't use 192.168.1.1)
 
-10. Go to your ps3, open web browser. Put in the IPv4 address: http://192.168.1.2/bgtoolset
+10. Go to your (Insert Console Name Here), open web browser. Put in the IPv4 address: http://192.168.1.2/bgtoolset
